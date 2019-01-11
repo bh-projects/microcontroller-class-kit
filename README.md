@@ -11,7 +11,7 @@ The details were listed below. They are available from several vendors such as T
 
 This basic kit:
 
-- DE10-Lite Board
+- DE10-Lite Board <br />
 https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1021
 
 - ARM Cortex-M4F Based MCU TM4C123G Launchpad Evaluation Kit (EK-TM4C123GXL) <br />
