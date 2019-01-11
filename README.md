@@ -1,6 +1,6 @@
 # microcontroller-class-kit
 
-This is a basic kit that inlcudes one FPGA board, one TI ARM Cortex M4 launchpad board, jumper wires.  <br />
+This is a basic kit that inlcudes one FPGA board, one TI ARM Cortex M4 launchpad board, and jumper wires.  <br />
 This kit will be used thourghout ESET 349 course in Spring of 2019. Students do not require to bring their own for the course. However, it is recommeneded to have your own for their learning purposes.
 
 The details were listed below. They are avaiable from several vendors such as TI, Amazon, digikey, or mouser. <br />
