@@ -3,7 +3,7 @@
 This is a basic kit that includes one FPGA board, one TI ARM Cortex M4 Launchpad board, and jumper wires.  <br />
 This kit will be used throughout ESET 349 course in *Spring of 2019*. Students **do not** require to bring their own for the course since they will be accessible during lab hours. However, it is recommended to have your own kit for their own learning purposes.
 
-The details were listed below. They are available from several vendors such as TI, Amazon, digikey, or mouser. <br />
+The details were listed below. They are available from several vendors such as TI, terasic, Amazon, digikey, or mouser. <br />
 
  <br />
 <center><img src="./pic.jpg" width =50%></center>
