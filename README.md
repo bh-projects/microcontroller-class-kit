@@ -1,9 +1,9 @@
 # microcontroller-class-kit
 
-This is a basic kit that includes one FPGA board, one TI ARM Cortex M4 Launchpad board, and jumper wires.  <br />
-This kit will be used throughout ESET 349 course in *Spring of 2019*. Students **do not** require to bring these items to the labs since they will be accessible during lab hours. However, it is recommended to have your own kit for a learning purpose.
+This is a basic kit that includes a FPGA board, a TI ARM Cortex M4 Launchpad board, and jumper wires.  <br />
+These items will be accessible during their lab hours. However, it is recommended them obtain their own for a learning purpose. <br />
 
-The details were listed below. They are available from several vendors such as TI, terasic, Amazon, digikey, or mouser. <br />
+The detail item list can be found below. These items are available through many suppliers such as TI, terasic, Amazon, digikey, or mouser. <br />
 
  <br />
 <center><img src="./pic.jpg" width =50%></center>
@@ -18,4 +18,4 @@ https://www.terasic.com.tw/cgi-bin/page/archive.pl?Language=English&No=1021
 http://www.ti.com/tool/EK-TM4C123GXL?DCMP=stellaris-launchpad&HQS=tm4c123g-launchpad
 
 - Breadboard Jumper Wire Set (Male to Female, Male to Male, and Female to Female)  <br />
-You can find several choices from many vendors
+You can find a wide range of choices using the keyword 'breadboard jumper wire'. Please, make sure to obtain M-M, F-F, and M-F wire combinations.
